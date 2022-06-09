@@ -1,0 +1,4 @@
+[DEFAULT]
+geometry = 500x500+52+52
+geometry_piano = 1168x700+142+0
+
